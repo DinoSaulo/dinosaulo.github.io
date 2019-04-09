@@ -26,6 +26,7 @@ class Piano {
                     "G#": false,
                     "A#": false
                 }
+                
             ] 
         }
     }
