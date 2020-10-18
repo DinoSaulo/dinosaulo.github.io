@@ -26,7 +26,7 @@ body {
 }
 
 h1 {
-    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, aquarine);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 40px;
